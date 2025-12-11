@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "the-blockey-frontier",
+	"version": "${version}",
+	"name": "The Blockey Frontier",
+	"description": "Exeplore the Frontier!",
+	"authors": [
+		"Carbonkid658!"
+	],
+	"contact": {
+		"homepage": "WIP",
+		"sources": "https://github.com/Tutorials-By-Kaupenjoe/Fabric-Tutorial-1.20.X/tree/1-setup"
+	},
+	"license": "MIT",
+	"icon": "assets/the-blockey-frontier/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.carbonkid.tbf.TheBlockeyFrontier"
+		],
+		"fabric-datagen": [
+			"net.carbonkid.tbf.TheBlockeyFrontierDataGenerator"
+		],
+		"client": [
+			"net.carbonkid.tbf.TheBlockeyFrontierClient"
+		]
+	},
+	"mixins": [
+		"the-blockey-frontier.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
