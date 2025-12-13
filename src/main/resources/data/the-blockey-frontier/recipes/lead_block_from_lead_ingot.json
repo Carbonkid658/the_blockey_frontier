@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":[
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "the-blockey-frontier:lead_ingot"
+
+    }
+  },
+  "result": {
+    "item": ""
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "lead",
+  "ingredient": {
+    "item": "the-blockey-frontier:raw_lead"
+  },
+  "result": "the-blockey-frontier:lead_ingot"
+}
