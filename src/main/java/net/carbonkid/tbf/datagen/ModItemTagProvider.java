@@ -1,19 +1,22 @@
-package net.carbonkid.tbf.datagen;
-
-import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
-import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
-import net.minecraft.registry.RegistryKey;
-import net.minecraft.registry.RegistryWrapper;
-
-import java.util.concurrent.CompletableFuture;
-
-public class ModItemTagProvider extends FabricTagProvider {
-    public ModItemTagProvider(FabricDataOutput output, RegistryKey registryKey, CompletableFuture registriesFuture) {
-        super(output, registryKey, registriesFuture);
-    }
-
-    @Override
-    public void configure(RegistryWrapper.WrapperLookup wrapperLookup) {
-
-    }
-}
+//package net.carbonkid.tbf.datagen;
+//
+//import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
+//import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
+//import net.minecraft.registry.RegistryKey;
+//import net.minecraft.registry.RegistryWrapper;
+//import org.jetbrains.annotations.Nullable;
+//
+//import java.util.concurrent.CompletableFuture;
+//
+//public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider{
+//
+//    public ModItemTagProvider(FabricDataOutput output, CompletableFuture<RegistryWrapper.WrapperLookup> completableFuture, @Nullable BlockTagProvider blockTagProvider) {
+//        super(output, completableFuture, blockTagProvider);
+//    }
+//
+//    @Override
+//    public void configure(RegistryWrapper.WrapperLookup arg) {
+//
+//    }
+//}
+//}

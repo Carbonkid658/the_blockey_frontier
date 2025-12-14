@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ingot"
+    },
+    "S": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "   ",
+    "S S",
+    " # "
+  ],
+  "result": {
+    "item": "the-blockey-frontier:can"
+  },
+  "show_notification": true
+}

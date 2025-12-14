@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "the-blockey-frontier:can"
+    },
+    "S": {
+      "item": "the-blockey-frontier:been"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "item": "the-blockey-frontier:been_can"
+  },
+  "show_notification": true
+}

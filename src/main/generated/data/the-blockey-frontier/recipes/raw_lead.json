@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "the-blockey-frontier:raw_lead_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "the-blockey-frontier:raw_lead"
+  }
+}

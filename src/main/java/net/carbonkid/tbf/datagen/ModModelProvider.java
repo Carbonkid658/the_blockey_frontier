@@ -2,6 +2,7 @@ package net.carbonkid.tbf.datagen;
 
 import net.carbonkid.tbf.core.ModItems;
 import net.carbonkid.tbf.core.block.ModBlocks;
+import net.carbonkid.tbf.core.block.custome.BeenCropBlock;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.minecraft.data.client.BlockStateModelGenerator;
@@ -21,6 +22,9 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.LEAD_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.DEEP_LEAD_ORE);
 
+        blockStateModelGenerator.registerTintableCrossBlockStateWithStages(ModBlocks.BEEN_CROP_BLOCK, BlockStateModelGenerator.TintType.NOT_TINTED,
+                BeenCropBlock.AGE, 0, 1, 2, 3);
+
     }
 
     @Override
@@ -31,9 +35,11 @@ public class ModModelProvider extends FabricModelProvider {
         itemModelGenerator.register(ModItems. BEEN, Models.GENERATED);
         itemModelGenerator.register(ModItems. BEEN_CAN, Models.GENERATED);
         itemModelGenerator.register(ModItems. BEEN_POD, Models.GENERATED);
-        itemModelGenerator.register(ModItems. CAN, Models.GENERATED);
         itemModelGenerator.register(ModItems. BISCUIT, Models.GENERATED);
+        itemModelGenerator.register(ModItems. CAN, Models.GENERATED);
         itemModelGenerator.register(ModItems. D0WSING_ROD, Models.GENERATED);
+
+
 
 
 

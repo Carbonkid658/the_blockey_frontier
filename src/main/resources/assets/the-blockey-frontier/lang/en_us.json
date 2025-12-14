@@ -1,0 +1,22 @@
+{
+  "block.the-blockey-frontier.lead_block": "Block of Lead",
+  "block.the-blockey-frontier.lead_ore": "Lead Ore",
+  "block.the-blockey-frontier.deep_lead_ore": "Deepslate Lead Ore",
+  "block.the-blockey-frontier.raw_lead_block": "Block of Raw Lead",
+  "block.the-blockey-frontier.been_crop_block": "Bean Bush",
+
+  "item.the-blockey-frontier.biscuit": "Sourdough Biscuit",
+  "item.the-blockey-frontier.lead_ingot": "Lead Ingot",
+  "item.the-blockey-frontier.lead_nugget": "Lead Nugget",
+  "item.the-blockey-frontier.raw_lead": "Raw Lead",
+
+  "item.the-blockey-frontier.can": "Tin Can",
+  "item.the-blockey-frontier.been_can": "Can of PintOBeans",
+  "item.the-blockey-frontier.been": "Pinto Bean",
+  "item.the-blockey-frontier.been_pod": "Pinto Bean Pod",
+
+  "item.the-blockey-frontier.dowsing_rod": "Dowsing Rod",
+  "itemgroup.tbf": "The Blocky Frontier",
+
+  "tooltip.the-blockey-frontier.dowsing_rod.tooltip": "Finds Valuabes and Water underground"
+}

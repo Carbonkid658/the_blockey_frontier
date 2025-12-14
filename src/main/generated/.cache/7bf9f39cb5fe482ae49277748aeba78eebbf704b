@@ -1,0 +1,9 @@
+// 1.20.1	2025-12-13T11:18:36.4669425	The Blockey Frontier/Tags for minecraft:block
+c5692a93ed154e22ea153b3ab64ec24f3bb27bf8 data\minecraft\tags\blocks\mineable\pickaxe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+c5692a93ed154e22ea153b3ab64ec24f3bb27bf8 data\minecraft\tags\blocks\needs_iron_tool.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+deb454b4f66988107540f36889f8e2aa97a0aec3 data\the-blockey-frontier\tags\blocks\dowsing_rod_detectable_blocks.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json
