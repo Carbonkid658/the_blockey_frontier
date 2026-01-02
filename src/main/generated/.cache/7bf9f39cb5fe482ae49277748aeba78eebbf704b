@@ -1,9 +1,12 @@
-// 1.20.1	2025-12-13T11:18:36.4669425	The Blockey Frontier/Tags for minecraft:block
-c5692a93ed154e22ea153b3ab64ec24f3bb27bf8 data\minecraft\tags\blocks\mineable\pickaxe.json
+// 1.20.1	2026-01-02T00:32:29.4962184	The Blockey Frontier/Tags for minecraft:block
+0bd8f3d5293bafa7cbdfb36dcfa31453f76bf6df data\minecraft\tags\blocks\mineable\pickaxe.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+6e0316e4b1fe69571c8d8e7a9b86b6b013f08a8f data\minecraft\tags\blocks\fences.json
 c5692a93ed154e22ea153b3ab64ec24f3bb27bf8 data\minecraft\tags\blocks\needs_iron_tool.json
-8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_diamond_tool.json
+aa2955dba24a92acf54a340b8a93e7f6adcab4a1 data\minecraft\tags\blocks\fence_gates.json
+6ed0ae20c2245e6134d64303077b988acdd4337e data\minecraft\tags\blocks\needs_diamond_tool.json
 deb454b4f66988107540f36889f8e2aa97a0aec3 data\the-blockey-frontier\tags\blocks\dowsing_rod_detectable_blocks.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\shovel.json
+9f82d2fac8726c4e5671db834a7b41319096d704 data\minecraft\tags\blocks\logs_that_burn.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\needs_stone_tool.json

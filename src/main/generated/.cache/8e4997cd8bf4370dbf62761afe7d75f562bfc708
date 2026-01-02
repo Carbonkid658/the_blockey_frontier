@@ -1,5 +1,21 @@
-// 1.20.1	2025-12-13T11:18:36.4648981	The Blockey Frontier/Block Loot Tables
+// 1.20.1	2026-01-02T00:32:29.4941263	The Blockey Frontier/Block Loot Tables
+c8611ac78f1988f3a5ebb948d34e34af5dfe785e data\the-blockey-frontier\loot_tables\blocks\stripped_cot_wood.json
+ffdf361423ea682d8bfae2ed9285d49efa75fe05 data\the-blockey-frontier\loot_tables\blocks\cot_trapdoor.json
+bcd04384e04dec93ba7e8bf0b9b3ca970a397e19 data\the-blockey-frontier\loot_tables\blocks\cot_button.json
+9dfdaf4fd7120bdf4f3bd7ed4cde038f37d73d09 data\the-blockey-frontier\loot_tables\blocks\stripped_cot_log.json
+8f68a5c448c383a945c2c14d099ac684ab302390 data\the-blockey-frontier\loot_tables\blocks\cot_slab.json
 cfe37c7571ff32883e91ec585c7259c87d3d6a74 data\the-blockey-frontier\loot_tables\blocks\lead_ore.json
-2b17872414d92b05c67173b63a8d403355589fb1 data\the-blockey-frontier\loot_tables\blocks\raw_lead_block.json
-aebfd611f612b4ac1d64b223a1522df837e24295 data\the-blockey-frontier\loot_tables\blocks\deep_lead_ore.json
+4441c14a93d8881d63f9f27644657a2bc429f8d0 data\the-blockey-frontier\loot_tables\blocks\cot_door.json
+facd1fc72ae22fda35182b5dd53c9e8619afc03c data\the-blockey-frontier\loot_tables\blocks\cot_leaves.json
 9e00fc88645a24a2daf49b6b22ac29f9a2e59dd1 data\the-blockey-frontier\loot_tables\blocks\lead_block.json
+48c57a81d9505b096a341121f5d533bfffc89fb0 data\the-blockey-frontier\loot_tables\blocks\cot_plank_block.json
+c0bffd112bb2217c532e02c53b86611aa6d1776c data\the-blockey-frontier\loot_tables\blocks\been_crop_block.json
+456bc7b19bdb497fd61a59d6814accd4925c049d data\the-blockey-frontier\loot_tables\blocks\cot_wood.json
+dee6f6e14fd6f9393fc704c85d4d7f8393a8aa45 data\the-blockey-frontier\loot_tables\blocks\cut_fence_gate.json
+aebfd611f612b4ac1d64b223a1522df837e24295 data\the-blockey-frontier\loot_tables\blocks\deep_lead_ore.json
+2b17872414d92b05c67173b63a8d403355589fb1 data\the-blockey-frontier\loot_tables\blocks\raw_lead_block.json
+a08eee91f6882f66a5a99cfa2d9331a200157209 data\the-blockey-frontier\loot_tables\blocks\cot_log.json
+a9187597980e0becef956b8c84bdfa384e56cda8 data\the-blockey-frontier\loot_tables\blocks\cot_stairs.json
+f4ff2ef4fa691db434844427464df8efd326f8f8 data\the-blockey-frontier\loot_tables\blocks\cot_pressure_plate.json
+c7e0cc19b8193e24c14783f9e927a8d8358cd75f data\the-blockey-frontier\loot_tables\blocks\cot_sappling.json
+49ecc58b72d3ae484502684208af887334b4c9db data\the-blockey-frontier\loot_tables\blocks\cot_fence.json

@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.carbonkid.tbf.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "TrunkPlacerTypeInvoker"
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }

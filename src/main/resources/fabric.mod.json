@@ -23,6 +23,9 @@
 		],
 		"client": [
 			"net.carbonkid.tbf.TheBlockeyFrontierClient"
+		],
+		"terrablender": [
+			"net.carbonkid.tbf.world.biome.ModTerrablenderAPI"
 		]
 	},
 	"mixins": [

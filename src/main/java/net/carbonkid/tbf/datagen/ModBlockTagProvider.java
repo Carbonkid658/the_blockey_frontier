@@ -6,6 +6,7 @@ import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.BlockTags;
+import net.minecraft.registry.tag.ItemTags;
 
 import java.util.concurrent.CompletableFuture;
 
@@ -30,6 +31,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
 
         getOrCreateTagBuilder(BlockTags.AXE_MINEABLE);
 
+
         getOrCreateTagBuilder(BlockTags.HOE_MINEABLE);
 
         getOrCreateTagBuilder(BlockTags.SHOVEL_MINEABLE);
@@ -38,6 +40,7 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.RAW_LEAD_BLOCK)
                 .add(ModBlocks.LEAD_BLOCK)
                 .add(ModBlocks.LEAD_ORE)
+                .add(ModBlocks.FRONTIER_FRAME)
                 .add(ModBlocks.DEEP_LEAD_ORE);
 
         getOrCreateTagBuilder(BlockTags.NEEDS_STONE_TOOL);
@@ -48,7 +51,21 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.LEAD_ORE)
                 .add(ModBlocks.DEEP_LEAD_ORE);
 
-        getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL);
+        getOrCreateTagBuilder(BlockTags.NEEDS_DIAMOND_TOOL)
+                .add(ModBlocks.FRONTIER_FRAME);
+
+
+        getOrCreateTagBuilder(BlockTags.FENCES)
+                .add(ModBlocks.COT_FENCE);
+
+        getOrCreateTagBuilder(BlockTags.FENCE_GATES)
+                .add(ModBlocks.COT_FENCE_GATE);
+
+        getOrCreateTagBuilder(BlockTags.LOGS_THAT_BURN)
+                .add(ModBlocks.COT_LOG)
+                .add(ModBlocks.COT_WOOD)
+                .add(ModBlocks.STRIPPED_COT_LOG)
+                .add(ModBlocks.STRIPPED_COT_WOOD);
 
 
 

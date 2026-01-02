@@ -26,14 +26,36 @@ public class ModItemGroups {
                         entries.add(ModItems.LEAD_INGOT);
                         entries.add(ModItems.LEAD_NUGGET);
                         entries.add(ModBlocks.LEAD_BLOCK);
+                        entries.add(ModItems.REVOLVER);
 
                         entries.add(ModItems.BISCUIT);
+                        entries.add(ModItems.HARDTAK);
                         entries.add(ModItems.BEEN);
                         entries.add(ModItems.CAN);
                         entries.add(ModItems.BEEN_CAN);
                         entries.add(ModItems.BEEN_POD);
 
                         entries.add(ModItems.D0WSING_ROD);
+
+                        entries.add(ModBlocks.COT_PLANK_BLOCK);
+                        entries.add(ModBlocks.COT_LOG);
+                        entries.add(ModBlocks.COT_WOOD);
+                        entries.add(ModBlocks.STRIPPED_COT_LOG);
+                        entries.add(ModBlocks.STRIPPED_COT_WOOD);
+                        entries.add(ModBlocks.COT_LEAVES);
+                        entries.add(ModBlocks.COT_SAPPLING);
+
+
+                        entries.add(ModBlocks.COT_SLAB);
+                        entries.add(ModBlocks.COT_STAIRS);
+                        entries.add(ModBlocks.COT_PRESSURE_PLATE);
+                        entries.add(ModBlocks.COT_FENCE);
+                        entries.add(ModBlocks.COT_FENCE_GATE);
+                        entries.add(ModBlocks.COT_BUTTON);
+                        entries.add(ModBlocks.COT_TRAPDOOR);
+                        entries.add(ModBlocks.COT_DOOR);
+                        entries.add(ModBlocks.FRONTIER_FRAME);
+                        entries.add(ModItems.FRONTIER_EYE);
 
 
 
