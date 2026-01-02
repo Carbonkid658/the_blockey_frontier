@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "the-blockey-frontier:block/cot_plank_block"
+  }
+}

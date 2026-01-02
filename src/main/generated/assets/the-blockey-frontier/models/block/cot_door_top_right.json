@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "the-blockey-frontier:block/cot_door_bottom",
+    "top": "the-blockey-frontier:block/cot_door_top"
+  }
+}

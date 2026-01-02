@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "the-blockey-frontier:block/cot_plank_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "the-blockey-frontier:block/cot_plank_block",
+    "side": "the-blockey-frontier:block/cot_plank_block",
+    "top": "the-blockey-frontier:block/cot_plank_block"
+  }
+}

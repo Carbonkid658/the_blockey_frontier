@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "the-blockey-frontier:block/cot_plank_block"
+  }
+}

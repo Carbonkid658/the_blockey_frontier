@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "the-blockey-frontier:block/stripped_cot_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "the-blockey-frontier:block/stripped_cot_log"
+    },
+    "axis=z": {
+      "model": "the-blockey-frontier:block/stripped_cot_log_horizontal",
+      "x": 90
+    }
+  }
+}

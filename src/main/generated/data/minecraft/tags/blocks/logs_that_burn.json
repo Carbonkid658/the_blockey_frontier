@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "the-blockey-frontier:cot_log",
+    "the-blockey-frontier:cot_wood",
+    "the-blockey-frontier:stripped_cot_log",
+    "the-blockey-frontier:stripped_cot_wood"
+  ]
+}

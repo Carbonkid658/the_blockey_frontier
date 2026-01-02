@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "the-blockey-frontier:block/cot_slab"
+    },
+    "type=double": {
+      "model": "the-blockey-frontier:block/cot_plank_block"
+    },
+    "type=top": {
+      "model": "the-blockey-frontier:block/cot_slab_top"
+    }
+  }
+}

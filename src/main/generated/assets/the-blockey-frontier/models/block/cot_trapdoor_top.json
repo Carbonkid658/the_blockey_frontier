@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_trapdoor_top",
+  "textures": {
+    "texture": "the-blockey-frontier:block/cot_trapdoor"
+  }
+}

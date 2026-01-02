@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "the-blockey-frontier:block/stripped_cot_log_top",
+    "side": "the-blockey-frontier:block/stripped_cot_log"
+  }
+}

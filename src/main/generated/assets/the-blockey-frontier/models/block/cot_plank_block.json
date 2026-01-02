@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "the-blockey-frontier:block/cot_plank_block"
+  }
+}
