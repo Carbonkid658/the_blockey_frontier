@@ -1,7 +1,7 @@
-// 1.20.1	2026-01-02T00:32:29.4962184	The Blockey Frontier/Tags for minecraft:block
+// 1.20.1	2026-01-03T18:29:24.8861531	The Blockey Frontier/Tags for minecraft:block
 0bd8f3d5293bafa7cbdfb36dcfa31453f76bf6df data\minecraft\tags\blocks\mineable\pickaxe.json
-8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
 8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\hoe.json
+8a23702b05296c8af5014d6aa6e9265ded85c7d9 data\minecraft\tags\blocks\mineable\axe.json
 6e0316e4b1fe69571c8d8e7a9b86b6b013f08a8f data\minecraft\tags\blocks\fences.json
 c5692a93ed154e22ea153b3ab64ec24f3bb27bf8 data\minecraft\tags\blocks\needs_iron_tool.json
 aa2955dba24a92acf54a340b8a93e7f6adcab4a1 data\minecraft\tags\blocks\fence_gates.json

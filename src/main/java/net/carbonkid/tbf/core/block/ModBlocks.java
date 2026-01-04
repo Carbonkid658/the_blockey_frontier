@@ -35,7 +35,7 @@ public class ModBlocks {
     public static final Block STRIPPED_COT_WOOD = registerBlock("stripped_cot_wood",
             new PillarBlock(FabricBlockSettings.copyOf(Blocks.STRIPPED_OAK_WOOD)));
     public static final Block FRONTIER_FRAME = registerBlock("frontier_frame",
-            new EndPortalBlock(FabricBlockSettings.copyOf(Blocks.END_STONE)));
+            new Block(FabricBlockSettings.copyOf(Blocks.END_STONE)));
 
     public static final Block COT_LEAVES = registerBlock("cot_leaves",
             new LeavesBlock(FabricBlockSettings.copyOf(Blocks.OAK_LEAVES).nonOpaque()));

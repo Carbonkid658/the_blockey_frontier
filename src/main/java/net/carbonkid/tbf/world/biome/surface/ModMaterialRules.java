@@ -17,12 +17,12 @@ import net.minecraft.world.gen.surfacebuilder.MaterialRules;
 
             return MaterialRules.sequence(
                     MaterialRules.sequence(MaterialRules.condition(MaterialRules.biome(ModBiomes.FRONTIER_BIOME),
-                                    MaterialRules.condition(MaterialRules.STONE_DEPTH_FLOOR, STONE)),
-                            MaterialRules.condition(MaterialRules.STONE_DEPTH_CEILING, STONE)),
+//                                    MaterialRules.condition(MaterialRules.STONE_DEPTH_FLOOR_WITH_SURFACE_DEPTH_RANGE_6, DIRT)),
+                                    MaterialRules.condition(MaterialRules.STONE_DEPTH_FLOOR, GRASS_BLOCK)),
+                            MaterialRules.condition(MaterialRules.STONE_DEPTH_CEILING_WITH_SURFACE_DEPTH, STONE)));
 
                     // Default to a grass and dirt surface
-                    MaterialRules.condition(MaterialRules.STONE_DEPTH_FLOOR, grassSurface)
-            );
+
         }
 
         private static MaterialRules.MaterialRule makeStateRule(Block block) {

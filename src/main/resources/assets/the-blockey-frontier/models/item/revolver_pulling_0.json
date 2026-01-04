@@ -1,0 +1,6 @@
+{
+"parent": "the-blocky-frontier:item/revolver",
+"textures": {
+"layer0": "the-blocky-frontier:item/revolver_pulling_0"
+}
+}
